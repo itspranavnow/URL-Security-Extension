@@ -1,2 +1,2 @@
-# URL-Security-Extension
-A browser extension for detecting malicious URLs and alerting users with simple, color-coded warnings.
+# URL Security Extension
+This browser extension helps users avoid unsafe links by checking URLs before they open. It provides a color-coded warning system to indicate safety levels.

@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "URL Security Extension",
+  "version": "1.0",
+  "description": "A browser extension to check URL safety and alert users.",
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "permissions": ["webRequest", "activeTab", "storage"]
+}
